@@ -26,10 +26,12 @@
     <color name="group_list_background_color">@*android:color/material_blue_grey</color>
     <color name="editor_disabled_text_color">#4dffffff</color>
     <color name="card_background_color">#60000000</color>
-    <color name="actionbar_background_color">#D24D57</color>
-    <color name="actionbar_background_color_dark">#D24D57</color> 
-    <color name="action_bar_background">#D24D57</color>
-    <color name="floating_action_button_icon_color">#D24D57</color>
+    <color name="actionbar_background_color">#3F51B5</color>
+    <color name="actionbar_background_color_dark">#3F51B5</color> 
+    <color name="action_bar_background">#3F51B5</color>
+    <color name="floating_action_button_icon_color">#ffffff</color>
+    <color name="accent_color_dark">#FF4081</color>
+    <color name="accent_color_light">#FF4081</color>
 
 	
 </resources>
